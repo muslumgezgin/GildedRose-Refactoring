@@ -1,5 +1,5 @@
-import { GildedRose } from '../app/gilded-rose';
-import { Item } from '@/item';
+import { GildedRose } from '../app/gilded-rose'
+import { Item } from '../app/item';
 
 
 const items = [
